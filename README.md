@@ -20,6 +20,6 @@ Installation right from the source tree (or via pip from PyPI)::
 
 Now, the ``webinar`` command is available::
 
-    $ hello
+    $ webinar
     Your name: Yusa
     Hello Yusa!
