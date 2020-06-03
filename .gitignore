@@ -1,0 +1,4 @@
+build/*
+dist/*
+webinar.egg-info.egg-info/*
+___pycache__/*
